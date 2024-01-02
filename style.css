@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    padding:0px;
+}
+.background
+{
+    width: 100%;
+    height: 100vh;
+    background-image:url(desktop-wallpaper-paranormal-netflix-official-paranormal-activity.jpg) ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+
